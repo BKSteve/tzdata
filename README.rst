@@ -16,3 +16,5 @@ For more information, see `the documentation <https://tzdata.readthedocs.io>`_.
 This fork is done for myself and Syno DSM 7 to function with SickChill as only SLIM files were available.
 
 The files to do this are in `src/tzdata <src/tzdata/DSM_task_scheduler.md>`_ folder and includes ZoneInfoDSM.sh bash file to link to scheduler and zip file of the required files.
+
+Files are version **2024a** from "https://www.iana.org/time-zones/repository/"

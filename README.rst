@@ -11,6 +11,6 @@ For more information, see `the documentation <https://tzdata.readthedocs.io>`_.
 
 This fork is done for myself for Syno DSM 7 to function with SickChill which calls on FAT files for info as only SLIM files were available.
 
-The files to do this are in `src/tzdata <src/tzdata/zonetimeinfo.zip>`_ zip file and guide `DSM_task_scheduler <docs/DSM_task_scheduler.md>`_ and includes `ZoneInfoDSM <docs/ZoneInfoDSM.sh>`_ bash file to link to scheduler.
+The files to do this are in `zonetimeinfo.zip <src/tzdata/zonetimeinfo.zip>`_ file and guide `DSM_task_scheduler <docs/DSM_task_scheduler.md>`_ and includes `ZoneInfoDSM <docs/ZoneInfoDSM.sh>`_ bash file to link to scheduler.
 
 Files are version **2024b** from "https://www.iana.org/time-zones/repository/"

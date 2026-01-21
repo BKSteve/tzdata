@@ -199,7 +199,7 @@ def find_latest_version() -> str:
         assert vfile is not None, "version file is not a regular file"
         version = vfile.read().decode("utf-8").strip()
 
-    assert re.match("\d{4}[a-z]$", version), version
+    assert re.match(r'\d{4}[a-z]$', version), version
 
     target_dir = WORKING_DIR / version / "download"
     target_dir.mkdir(parents=True, exist_ok=True)

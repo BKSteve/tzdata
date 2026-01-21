@@ -14,7 +14,7 @@ import textwrap
 from collections.abc import Iterable, Iterator, Mapping, Sequence
 from datetime import datetime, timezone
 
-import click  # type: ignore
+import click
 import gnupg  # type: ignore
 import parver  # type: ignore
 import requests

@@ -1,2 +1,7 @@
 sphinx>=3.0.0
 furo
+click
+gnupg
+parver
+requests
+importlib_resources

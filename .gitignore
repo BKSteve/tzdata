@@ -25,3 +25,6 @@ tmp/
 
 venv/
 .venv/
+
+# Workspace files
+tzdata.code-workspace

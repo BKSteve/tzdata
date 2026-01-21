@@ -15,7 +15,6 @@ docs/_output/
 # Testing
 .cache
 .hypothesis_cache
-.idea
 .mypy_cache
 .pytest_cache
 .tox

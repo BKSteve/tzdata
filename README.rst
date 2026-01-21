@@ -13,4 +13,4 @@ This fork is done for myself for Syno DSM 7 to function with SickChill which cal
 
 The files to do this are in `zonetimeinfo.zip <src/tzdata/zonetimeinfo.zip>`_ file and guide `DSM_task_scheduler <docs/DSM_task_scheduler.md>`_ and includes `ZoneInfoDSM <docs/ZoneInfoDSM.sh>`_ bash file to link to scheduler.
 
-Files are version **2024b** from "https://www.iana.org/time-zones/repository/"
+Files are version **2025c** from "https://www.iana.org/time-zones/repository/"
